@@ -5,14 +5,8 @@ header {
     background-color: #7B68EE;
     border-bottom: 10px solid black;
     padding: 10px 20px;
-    
 }
 
-h1 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: #fff;
-    text-shadow: 5px 5px 0 black;
-}
 
 nav {
     text-align: right;
